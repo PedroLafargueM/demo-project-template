@@ -1,2 +1,48 @@
-ipykernel
+altair
+# altair: Visualization library
+pandas
+# pandas: Data manipulation and analysis.
+numpy
+# numpy: Numerical computations.
+matplotlib-inline
+# matplotlib-inline: Inline plotting for Jupyter notebooks.
+plotly
+# plotly: Interactive visualizations.
+scipy
+# scipy: Scientific computing.
+scikit-learn
+# scikit-learn: Machine learning.
+statsmodels
+# statsmodels: Statistical modeling.
+seaborn
+# seaborn: Statistical data visualization.
+jupyter
+# jupyter: Jupyter notebook environment.
+jupyterlab
+# jupyterlab: JupyterLab environment.
+ipywidgets
+# ipywidgets: Interactive widgets for Jupyter notebooks.
+dash
+# dash: Web-based dashboarding.
+flask
+# flask: Web framework (useful for deploying dashboards).
+beautifulsoup4
+# beautifulsoup4: Web scraping (optional, for data collection).
+requests
+# requests: HTTP library (optional, for data collection).
+geopandas
+# geopandas: Geospatial data manipulation.
+folium
+# folium: Interactive maps.
+shapely
+# shapely: Geometric operations.
+pyproj
+# pyproj: Coordinate system transformations.
+fiona
+# fiona: Reading and writing vector data.
+rasterio
+# rasterio: Reading and writing raster data.
 python-dotenv
+# python-dotenv: Read environment variables from .env file.
+ipykernel
+# ipykernel: IPython Kernel for Jupyter.
